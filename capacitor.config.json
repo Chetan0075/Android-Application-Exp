@@ -1,0 +1,9 @@
+{
+  "appId": "com.crx.webviewer",
+  "appName": "CRX 360",
+  "webDir": "www",
+  "server": {
+    "url": "https://chetan0075.github.io/Android-Application-Exp/",
+    "cleartext": true
+  }
+}
